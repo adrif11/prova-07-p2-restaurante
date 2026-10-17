@@ -11,5 +11,3 @@ Desenvolva uma API REST para o tema “Restaurante”. O recurso principal será
 A solução deverá utilizar o conteúdo trabalhado em aula: Node.js, Express, nodemon, morgan, body-parser, CORS, módulo mysql e MariaDB/MySQL. Crie a estrutura do projeto com server.js, app.js, arquivo de configuração/conexão com o banco e arquivo de rotas.
 
 Implemente o CRUD completo: GET /prato, GET /prato/:id, POST /prato, PUT /prato/:id e DELETE /prato/:id. Nas operações de banco, utilize parâmetros/binding na SQL, trate erros de conexão/execução e envie respostas JSON coerentes. Inclua no repositório o script SQL de criação do banco/tabela e deixe o projeto pronto para execução com npm start.
-
-O professor deverá conseguir testar as rotas pelo Postman. Não utilize o tema Agenda/Contato.
