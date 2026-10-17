@@ -1,0 +1,21 @@
+{
+  "name": "restaurante-api",
+  "version": "1.0.0",
+  "description": "Prova P2 - API REST de Restaurante",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Adrielly",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.3.0",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "morgan": "^1.12.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
